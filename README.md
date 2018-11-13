@@ -3,6 +3,10 @@
 ## 基于Pygame的2D弹幕游戏
 ### 运行游戏：双击game.py
 ### 游戏截图：
+## 操作：
+1. z 射击
+2. 上下左右键
+3. shift 减慢速度，火力集中，显示判定点
 ![](screenshots/1.png)
 ![](screenshots/2.png)
 ![](screenshots/3.png)
