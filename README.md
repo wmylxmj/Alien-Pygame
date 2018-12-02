@@ -6,6 +6,7 @@
 1. z 射击
 2. 上下左右键
 3. shift 减慢速度，火力集中，显示判定点
+4. 空格 复活
 ### 游戏截图：
 ![](screenshots/1.png)
 ![](screenshots/2.png)
